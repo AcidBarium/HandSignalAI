@@ -94,11 +94,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\keilCode\\stm\\HGhomeWork\\Start",
-                "d:\\keilCode\\stm\\HGhomeWork\\User",
-                "d:\\keilCode\\stm\\HGhomeWork\\Library",
-                "d:\\keilCode\\stm\\HGhomeWork\\System",
-                "d:\\keilCode\\stm\\HGhomeWork\\Hardware",
+                "d:\\githubRes\\HandSignalAI\\stm32\\Start",
+                "d:\\githubRes\\HandSignalAI\\stm32\\User",
+                "d:\\githubRes\\HandSignalAI\\stm32\\Library",
+                "d:\\githubRes\\HandSignalAI\\stm32\\System",
+                "d:\\githubRes\\HandSignalAI\\stm32\\Hardware",
                 "E:\\keil\\ARM\\ARMCC\\include",
                 "E:\\keil\\ARM\\ARMCC\\include\\rw"
             ],
